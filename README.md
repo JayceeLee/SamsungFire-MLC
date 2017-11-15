@@ -1,5 +1,6 @@
 # PyTorch Implement
-Dynamic Recurrent Autoencoder Network for String Recognition without Localization Labels.
+I won the 4th prize in SAMSUNGFIRE MLC (http://alab.samsungfire.com).
+Also, I refer to https://github.com/durandtibo/wildcat.pytorch for almost of the code.  
 
 # Environment
 - Ubuntu 14.04
